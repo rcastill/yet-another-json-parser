@@ -28,3 +28,6 @@ HEADERS += \
     jsonvalue.h \
     parser_util.h
 
+DISTFILES += \
+    README.md
+
